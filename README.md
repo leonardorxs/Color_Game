@@ -1,6 +1,7 @@
 # Color_Game-TWDB
-Color Game developed during javascript studying
+Jogo desenvolvido durante o curso TWDB
 
-You can choose from two different game levels: Easy - 3x1/ Hard - 3x2.
+Este é um jogo de cores RGB, no qual o jogador precisa acertar qual a cor referente aos valores mostrados.
+O jogo possúi 2 níveis: Easy (com grade de 3x1); Hard (com grade de 3x2).
 
-I'm still updating it with new ideas. This is not even it's final form!
+Ainda estou atualizando-o com novas funcionalidades.
