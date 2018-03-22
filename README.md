@@ -1,5 +1,4 @@
-# Color_Game
-=======
+
 # Color_Game
 Jogo desenvolvido durante o curso TWDB
 
